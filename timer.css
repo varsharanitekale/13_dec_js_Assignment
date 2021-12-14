@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+}
+div{
+     text-align: center;
+    
+    margin:200px;
+    /* background-color: #efefef; */
+    /* height:10em; */
+}
+h2{
+    background-color: aquamarine;
+    width:40%;
+    padding: 40px;
+    margin-left: 230px;
+    border-radius: 70px;
+}
+button{
+    padding:7px;
+    width:90px;
+}
+#btn{
+    background-color: blue;
+    border: none;
+    opacity: 56%;
+    color:white;
+
+}
+#btn1{
+    background-color: #efefef;
+    border: none;
+    color:white;
+    opacity: 90%;
+}
+#btn1:hover{
+    background-color:gray;
+
+}
+
+#btn:hover{
+    background-color: blue;
+    opacity: 86%;
+ 
+
+
+}
